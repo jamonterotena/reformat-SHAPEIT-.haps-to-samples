@@ -1,4 +1,4 @@
-# reformat-SHAPEIT-.haps-to-samples
+# REFORMAT SHAPEIT .HAPS FORMAT TO SHOW SAMPLES BY ROWS
 The bash script reformats shapeit .haps file to show samples by rows instead of variants by rows
 
 # USAGE:
