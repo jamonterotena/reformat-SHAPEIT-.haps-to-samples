@@ -1,10 +1,10 @@
-# REFORMAT SHAPEIT .HAPS FORMAT TO SHOW SAMPLES BY ROWS
+# Reformat shapeit .haps format to show samples by rows
 The bash script reformats shapeit .haps file to show samples by rows instead of variants by rows
 
-# USAGE:
+# Usage
 bash shapeit.reformat.sh in_ped in_haps out_haps out_map
 
-# ARGUMENTS (!FILE EXTENSIONS SHOULD ALSO BE INCLUDED):
+# Arguments (!File extensions should also be included)
 in_ped  -->  .ped file that shapeit takes as input
 
 in_haps  -->  .haps file that shapeit outputs 
